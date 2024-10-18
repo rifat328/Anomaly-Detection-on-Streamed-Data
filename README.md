@@ -32,3 +32,5 @@ Anomaly detection can be achieved through various methods, including:
 - **Ensemble Methods**: Combining multiple detection techniques to improve accuracy and robustness.
 
 In this project, I leverage Python's powerful libraries to implement these methods, showcasing effective ways to identify anomalies in streamed data.
+
+## Project Features & Processes :
