@@ -1,6 +1,6 @@
 # Anomaly Detection on Streamed Data 🌐
 
-Welcome to the **Anomaly Detection on Streamed Data** project! This repository dives into the fascinating world of identifying anomalies in real-time data streams using Python.
+Welcome to the **Efficient Data Stream Anomaly Detection** project! This repository dives into the fascinating world of identifying anomalies in real-time data streams using Python.
 
 ## What is Anomaly Detection?
 
@@ -33,4 +33,25 @@ Anomaly detection can be achieved through various methods, including:
 
 In this project, I leverage Python's powerful libraries to implement these methods, showcasing effective ways to identify anomalies in streamed data.
 
-## Project Features & Processes :
+## Project Features :
+
+## How to Run the code on your system:
+
+## Theory and Formula:
+
+also Include a concise explanation of your chosen algorithm and its effectiveness.
+
+## Inner Structure of Code:
+
+## Code Explanation:
+
+- **Streamed Data Genarator**:
+- **Anomaly Detector from streamed data**:
+- **Visualization**:
+
+#Anomaly: variable
+#random.choices(population , weights ) choses population based on provided weight,
+
+# The weights determine the likelihood of each item being chosen.
+
+#anomaly = random.choices([0, random.uniform(10, 20)], [0.99, 0.01])[0] last 0 represent arrey index # population part Weight Part which is 99% normal & 1% anomaly
